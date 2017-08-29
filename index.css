@@ -3,7 +3,7 @@ h2 {
 }
 
 .center {
-	margin: auto;	
+	margin: auto;
 	display: table;
 }
 
@@ -29,4 +29,9 @@ h2 {
 button {
 	display: table;
 	margin: 20px auto;
+}
+
+#geted_restourant {
+	margin: auto;
+	display: table;
 }
